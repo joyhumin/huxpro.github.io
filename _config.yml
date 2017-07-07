@@ -31,9 +31,11 @@ anchorjs: true                          # if you want to customize anchor. check
 
 
 
-# Gems
+# Plugins / gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jemoji
 
 
 
@@ -44,7 +46,10 @@ gems: [jekyll-paginate]
 markdown: kramdown
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
-
+  hard_wrap: false
+  auto_ids: true
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
 
 # Disqus settings

@@ -8,9 +8,9 @@ header-img: ""
 
 <ul class="listing">
 {% for post in site.posts %}
-  {% capture y %}{{post.categories}}{% endcapture %}
-  {% if categories = y %}
-    {% assign categories = y %}
+  {% capture y %}{{post.category}}{% endcapture %}
+  {% if category = y %}
+    {% assign category = y %}
     <li class="listing-seperator">{{ y }}</li>
   {% endif %}
   <li class="listing-item">

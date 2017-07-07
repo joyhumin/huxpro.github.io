@@ -3,7 +3,7 @@ title: Nerd Sexy
 SEOTitle: Nerdsexy
 header-img: img/home-bg-brain.jpg
 email: nerdsexy@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
+description: "Just another energetic and curious fashion lover & life-long learner. Hack my life."
 keyword: "nerdsexy, geek, psychology, neuroscience, life-long learner, @nerdsexy, joyhumin, Blog, 博客, 个人网站, 心理学，编程，神经科学"
 url: "https://nerdsexy.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -16,7 +16,7 @@ weibo_username:     nerdsexy
 zhihu_username:     false
 github_username:    joyhumin
 twitter_username:   joyhumin
-#facebook_username:  huxpro
+facebook_username:  joyhumin
 # linkedin_username:  firstname-lastname-idxxxx
 
 

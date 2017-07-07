@@ -6,7 +6,8 @@ date:       2017-07-08 12:00:00
 author:     "Nerdsexy"
 header-img: "img/post-bg/hello.jpg"
 catalog: true
-categories: blog
+categories: 
+    - blog
 tags:
     - 生活
 ---

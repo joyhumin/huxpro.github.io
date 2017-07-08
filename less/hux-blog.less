@@ -78,9 +78,15 @@ br + small.img-hint{
 img.shadow{
 	box-shadow: rgba(0, 0, 0, 0.258824) 0px 2px 5px 0px;
 }
+img.emoji {
+    display: inline;
+    height: 1em;
+    width: 1em;
+    margin-bottom: 0.25em;
+}
 // Utils Style End
 
-// Select 
+// Select
 select{
 	-webkit-appearance:none;
 	margin-top:15px;
@@ -125,7 +131,7 @@ pre code{
 
 // In the post.
 .post-container{
-	a{	
+	a{
 		display: inline-block;
 		// safari has bugs on word-break on inline elements.
 		color:#337ab7;
@@ -213,7 +219,7 @@ pre code{
 	 * which would cover tags. A absolute positioning make a new layer.
 	 */
 	.navbar-default .navbar-collapse{
-		position: absolute; 
+		position: absolute;
      	right: 0;
 		border: none;
 		background: white;
@@ -226,7 +232,7 @@ pre code{
 	 * Animation
 	 * HuxBlog-Navbar using genuine Material Design Animation
 	 */
-	#huxblog_navbar{ 	
+	#huxblog_navbar{
 		/**
 		 * Sharable code and 'out' function
 		 */
@@ -1026,6 +1032,3 @@ img::-moz-selection {
 .page-fullscreen footer .copyright a:hover{
 	color: #ddd;
 }
-
-
-

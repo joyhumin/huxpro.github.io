@@ -1,20 +1,20 @@
 
 
-> Another energetic life-long leaner to wants to be a lifehacker.   
+> Just another energetic life-long learner to wants to be a lifehacker.   
 
 
-Hi, I am Joy. I'm a marketer who addicted to digital world. I built softwares particularly on the Web (😆see [Portfolio](https://huangxuan.me/portfolio) and [Github](https://github.com/huxpro)), and posted about tech at [Twitter](https://twitter.com/Huxpro/) and [Medium.com](https://medium.com/@Huxpro).
+Hi, I am Joy. I'm a marketer who addicted to digital world. I built this blog to record my thoughts, study notes and share awesome ideas. Also, it will be my diary to see my growth. As my motto saying, I wants to be the change and keep learning my lifetime to hack my life.
 
 I previously worked at [Embraco](https://www.embraco.com) as marketing management trainee, then joined a start-up team at [China.com](https://www.china.com), responsible for hi-tech wearable device's product marketing analysis and branding. Then, I got a chance to come to New Zealand working as a marketing coordinator in a private education provider, responsible for marketing research, analysis and social media. 
 
-I studied Digital Media Art and graduated from [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) in 2016, and I will study Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) in 2017.
+My major was not in Marketing when I was in university. But my passion and working experience proved my capability in marketing field. I keep learning marketing online via [Coursera](https://www.coursera.org) and obtained related certificates. You can check my [Linkedin](https://www.linkedin.com/in/joyhumin/) profile to see what I have learned and what I know about marketing.
 
 
-##### Talks
+##### Interests
 
-- [Service Worker 101](//huangxuan.me/2016/11/20/sw-101-gdgdf/) · GDG DevFest Beijing 2016
-- [Progressive Web Apps](//huangxuan.me/2016/10/20/pwa-qcon2016/) · QCon Shanghai 2016
-- [Progressive Web App in my POV](//huangxuan.me/2016/06/05/pwa-in-my-pov/) · GDG IO Redux Beijing 2016
-- [CSS Still Sucks 2015](//huangxuan.me/2015/12/28/css-sucks-2015/) · 2015
-- [JavaScript Modularization Journey](//huangxuan.me/2015/07/09/js-module-7day/) · 2015
+- Reading, focus on Psychology and Neuroscience (both benefit my profession and daily life)
+- Coding(Yeah, you are right. I am big fan of programming. And I am learning python for now.)
+- Cooking, who doesn't love delicious food 🍱🥞🥘
+
+**Thank you for stumbling upon to my blog, I hope you could grasp any useful information one day and may be we could be friends in the future. 😘**
 

@@ -6,10 +6,10 @@ date:       2017-07-08 12:00:00
 author:     "Joy"
 header-img: "img/post-bg/hello.jpg"
 catalog: true
-category:
+category: 
     - blog
 tags:
-    -
+    - 
 ---
 
 > "To be the changes you wish to see in the world."
@@ -25,4 +25,6 @@ tags:
 
 ## 后记
 就这样，我的博客在今天建成了。
-希望这片园地能与我个人一起成长。:dancers::dancers::dancers:
+希望这片园地能与我个人一起成长。:dancers:
+
+

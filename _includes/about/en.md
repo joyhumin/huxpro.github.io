@@ -3,7 +3,7 @@
 > Yet another Developer & Designer.  
 
 
-Hi, I am Huang, Xuan(黄玄), or Hux. I'm a software engineer & a designer. I built softwares particularly on the Web (👉see [Portfolio](https://huangxuan.me/portfolio) and [Github](https://github.com/huxpro)), and posted about tech at [Twitter](https://twitter.com/Huxpro/) and [Medium.com](https://medium.com/@Huxpro).
+Hi, I am Huang, Xuan(黄玄), or Hux. I'm a software engineer & a designer. I built softwares particularly on the Web (😆see [Portfolio](https://huangxuan.me/portfolio) and [Github](https://github.com/huxpro)), and posted about tech at [Twitter](https://twitter.com/Huxpro/) and [Medium.com](https://medium.com/@Huxpro).
 
 I previsouly worked at [Alibaba Trip](https://www.alitrip.com/), then led Front-End Infrastructure Team at [Wepiao.com](https://www.crunchbase.com/organization/wepiao#/entity), and then [worked on PWA]((https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)) at [Ele.me](https://github.com/elemefe/) as invited consultant.
 

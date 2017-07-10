@@ -1,11 +1,11 @@
 
 
-> Yet another Developer & Designer.  
+> Another energetic life-long leaner to wants to be a lifehacker.   
 
 
-Hi, I am Huang, Xuan(黄玄), or Hux. I'm a software engineer & a designer. I built softwares particularly on the Web (😆see [Portfolio](https://huangxuan.me/portfolio) and [Github](https://github.com/huxpro)), and posted about tech at [Twitter](https://twitter.com/Huxpro/) and [Medium.com](https://medium.com/@Huxpro).
+Hi, I am Joy. I'm a marketer who addicted to digital world. I built softwares particularly on the Web (😆see [Portfolio](https://huangxuan.me/portfolio) and [Github](https://github.com/huxpro)), and posted about tech at [Twitter](https://twitter.com/Huxpro/) and [Medium.com](https://medium.com/@Huxpro).
 
-I previsouly worked at [Alibaba Trip](https://www.alitrip.com/), then led Front-End Infrastructure Team at [Wepiao.com](https://www.crunchbase.com/organization/wepiao#/entity), and then [worked on PWA]((https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)) at [Ele.me](https://github.com/elemefe/) as invited consultant.
+I previously worked at [Embraco](https://www.embraco.com) as marketing management trainee, then joined a start-up team at [China.com](https://www.china.com), responsible for hi-tech wearable device's product marketing analysis and branding. Then, I got a chance to come to New Zealand working as a marketing coordinator in a private education provider, responsible for marketing research, analysis and social media. 
 
 I studied Digital Media Art and graduated from [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) in 2016, and I will study Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) in 2017.
 

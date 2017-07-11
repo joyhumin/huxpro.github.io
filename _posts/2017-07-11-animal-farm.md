@@ -4,12 +4,14 @@ title:      "《Animal Farm》读后感"
 subtitle:   "All animals are equal. But some animals are more equal than others.“ 
 date:       2017-07-11
 author:     "Joy"
+catalog:    true
 categories:
   - blog
 tags:
   - book review
 description: 一本到现世还有意义的政治寓言
 ---
+
 自从开始养成阅读习惯以来，<Animal Farm>就一直是我阅读清单里的top 3.不仅仅是超高的评分，其在冷战时期被禁的“历史”更加给这本书披上了蜜汁魅力。
 
 从图书馆里拿到这本书时，才发现这本书时多么的短小精悍，区区100多页的英文书实在不多见。开始马不停蹄的阅读，真心被里面的情节所吸引。虽然书本很多单词都不认识，但是完全不会打击读者积极性。对，这本书就是如此有魅力。

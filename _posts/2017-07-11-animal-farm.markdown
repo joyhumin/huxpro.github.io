@@ -4,7 +4,8 @@ title:      "《Animal Farm》读后感"
 subtitle:   "All animals are equal. But some animals are more equal than others."
 date:       2017-07-11
 author:     "Joy"
-Category:   blog
+Category:   
+    - blog
 header-img: "img/post-bg/animal-farm.jpg"
 tags:
     - book review

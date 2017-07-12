@@ -9,6 +9,7 @@ category:
 header-img: "img/post-bg/animal-farm.jpg"
 tags:
     - book review
+    - Chinese
 ---
 
 自从开始养成阅读习惯以来，<Animal Farm>就一直是我阅读清单里的top 3.不仅仅是超高的评分，其在冷战时期被禁的“历史”更加给这本书披上了蜜汁魅力。

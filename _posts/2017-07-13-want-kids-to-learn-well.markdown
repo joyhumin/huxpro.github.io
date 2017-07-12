@@ -8,7 +8,7 @@ category:
     - blog
 header-img: "img/post-bg/eat-well.jpg"
 tags:
-    -
+    - English
 ---
 
 I saw this headline on podcast and it intrigues a lot about the content. It turns out to be a [TED speech](https://www.ted.com/talks/sam_kass_want_to_teach_kids_well_feed_them_well) which was filmed on November 2015.
@@ -24,7 +24,7 @@ The only answer is **what you put into your mouth.** Your body need good nutriti
 
 After watching this video, I learned that feeding with good food not only impact on your health condition, it's also change your performance. No matter you are still a student or not, you should always choose healthy food.
 
-To be honest, after I came to New Zealand, I started realise that why stay fit and healthy is a signal of "wealth" and "well-educated". First, health food is comparatively more expensive. If you can always eat healthy veggies, fruits, organic products, it means you can spend more money on food. Second, if you have a fit and toned body, it is a signal that you are a well-disciplined person and had better income to afford your gym fee. So, as you can see, people who earned more money have more chance to life a healthier lifestyle. 
+To be honest, after I came to New Zealand, I started realise that why stay fit and healthy is a signal of "wealth" and "well-educated". First, health food is comparatively more expensive. If you can always eat healthy veggies, fruits, organic products, it means you can spend more money on food. Second, if you have a fit and toned body, it is a signal that you are a well-disciplined person and had better income to afford your gym fee. So, as you can see, people who earned more money have more chance to life a healthier lifestyle.
 
 But from my point view, living a healthy life or not is totally a personal choice. Set me as an example, I don't get paid well, but I am willing to spend much money on what I eat and gym. I know it is kind of investment. Investment on my body, my appearance and most importantly on my brain. Money is not the ultimate goal for me right now, cultivating the ability to earning more money is.
 

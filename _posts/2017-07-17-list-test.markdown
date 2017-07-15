@@ -1,12 +1,14 @@
 ---
 layout: post
-title: list Test
-date: 2017-07-16
+title: "Hello 2017"
+subtitle: " \"Hello World, Hello Blog\""
+date: 2017-07-08
 author: Joy
+header-img: "img/post-bg/hello.jpg"
 category:
     - blog
 tags:
-    - English
+    - Chinese
 catalog: true
 ---
 
@@ -22,4 +24,4 @@ list
 
 ## list 3
 
-list 
+list

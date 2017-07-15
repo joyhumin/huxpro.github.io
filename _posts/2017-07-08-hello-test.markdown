@@ -1,13 +1,15 @@
 ---
 layout:     post
-title:      "Hello 2015"
+title:      "Hello 2017"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
+date:       2017-07-08 12:00:00
+author:     "Joy"
 header-img: "img/post-bg-2015.jpg"
+category:
+    - blog
 catalog: true
 tags:
-    - 生活
+    - Chinese
 ---
 
 > “Yeah It's on. ”
@@ -86,4 +88,4 @@ list
 
 ## 后记3
 
-list 
+list

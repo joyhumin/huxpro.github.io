@@ -3,7 +3,7 @@ layout: post
 title: "Hello 2017"
 subtitle: " \"Hello World, Hello Blog\""
 date: 2017-07-08
-author: test
+author: Joy
 header-img: "img/post-bg/hello.jpg"
 category:
     - blog
@@ -23,8 +23,9 @@ catalog: true
 **Nerd is the new sexy!**
 这正是我博客名字的来源。在这里，我将会记录我的学习过程，生活感悟以及读书笔记。一切存在于我内心的想法，我都会通过键盘和屏幕记录下来。或许文笔稚嫩青涩，但刻意练习但目的不就是从newbie to master吗？
 
-从变成小白到勉强建立一个完整的网站，花费了我近两个周末和几乎每周熬夜到凌晨3点的5个工作日，又幸运的体会到了一次 **心流**。 建站的过程中跳过不少坑，幸好在大大的cyber community，又无数的程序员、博主、hacker等分享他们的经验。 
+从变成小白到勉强建立一个完整的网站，花费了我近两个周末和几乎每周熬夜到凌晨3点的5个工作日，又幸运的体会到了一次 **心流**。 建站的过程中跳过不少坑，幸好在大大的cyber community，有无数的程序员、博主、hacker等分享他们的经验。这样的正向反馈也更加坚定了我写博客的信念与动机。希望加以时日，我的文字也能帮助到需要帮助的人。
 
 ## 后记
 
-list
+就这样，我的博客在今天建成了。
+希望这片园地能与我一起成长。:dancers:

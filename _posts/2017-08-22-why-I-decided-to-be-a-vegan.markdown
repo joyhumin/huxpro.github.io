@@ -28,6 +28,6 @@ Unfortunately, I didn't buy the main ideas it is selling, such as **Eating one e
 
 That simple, succinct fact shocked me. As a eco-friend advocator, I could not believe that I could neglect this important reality. Eating plant-based food is not only related to animal life, it is, for me at least, more important for our human being's sustainable life.
 
-I admitted that simple sentence changed my mind and I started an entire different new way of eating. I cleaned my pantries and filled up with non-animal food. I started paid more time and attention on food labels just to avoid any milk or egg consumption. It was hard for the first two days, but after I went through the first week, my feeling changed and started feeling happy and the urge of eating meat just gone.
+I admitted that simple sentence changed my mind and I started an entire different new way of eating. I cleaned my pantries and filled up with non-animal food. I started paying more time and attention on food labels just to avoid any milk or egg consumption. It was hard for the first two days, but after I went through the first week, my feeling changed and started feeling happy and the urge of eating meat just gone.
 
 I know it sounds so untrue to believe and I am not convinced either. That is why I set a 6 months timeframe to let my body to get used to it. After 6 months, I will review my reaction to vegan diet both in physical and emotional and then I will decide if I will live with veganism my life time.

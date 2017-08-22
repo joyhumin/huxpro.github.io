@@ -8,7 +8,7 @@ category:
     - blog
 header-img: "img/post-bg/eat-well.jpg"
 tags:
-    - English
+    - TED
 ---
 
 I saw this headline on podcast and it intrigues a lot about the content. It turns out to be a [TED speech](https://www.ted.com/talks/sam_kass_want_to_teach_kids_well_feed_them_well) which was filmed on November 2015.

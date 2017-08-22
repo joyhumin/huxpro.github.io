@@ -9,7 +9,7 @@ catalog: false
 category:
     - blog
 tags:
-    - English
+    - 
     - vegan
     - life
 ---

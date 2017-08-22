@@ -11,6 +11,7 @@ category:
 tags:
     - English
     - vegan
+    - life
 ---
 
 I made up my mind to be a vegan about one month ago. All my friends and family members who know I made this change were curious and could not understand my motivation.

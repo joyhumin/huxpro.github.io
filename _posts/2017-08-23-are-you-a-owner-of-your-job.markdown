@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Are you a owner of your work
-subtitle: Thoughts about working attitude
+title: Are you a owner of your work?
+subtitle: Thoughts on attitude at work
 date: 2017-08-23
 author: Joy
 header-img: "img/post-bg/work-owner.jpg"

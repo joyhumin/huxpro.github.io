@@ -21,5 +21,5 @@ Also, the love between Connor and Raphine reminds me of my teenage love. It was 
 
 If you like musics and want to find a good movie to spend your weekend, I would highly recommend **Sing Street** to you. This movie would inspire you a lot more than me regarding chasing after dream, teenage love or even rock music in Eighties.
 
-![](img/in-post/post-sing-street.jpg)
+![](img/in-post/post-sing-street/sing-street-banner.jpg)
 Because it is a music movie, all the songs are amazing. At last, I would link my favourite song in this movie — [**To find you**](https://open.spotify.com/track/75WOBjhzpCPLxo8MqXyJf1). And all song tracks can be also find in [*Spotify*](https://open.spotify.com/artist/7AKznuvHmbW7uZbUkLY4Je).

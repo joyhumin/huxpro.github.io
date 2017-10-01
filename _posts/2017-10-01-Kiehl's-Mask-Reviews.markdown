@@ -35,7 +35,7 @@ In general, I prefer this mask than Rare Earth unexpectedly. Using once cannot t
 me, I will purchase this product for sure after the Rare Earth being used up.
 
 
-### Background Knowledge:
+#### Background Knowledge:
 > **Turmeric contains properties that contribute to a natural contribute to a natural glow.**
 Turmeric contains antioxidants and anti-inflammatory components. These characteristics may provide glow and buster to the skin. Turmeric may also revive your skin by bringing out its natural glow.  
 > _Tips_: You may want to try a turmeric face mask at home to see if the spice has any positive effects on your skin. You can mix small amounts of Greek yogurt, honey, and turmeric together and apply to your face. Keep the mask on for 15 minutes and then wash off with water.  

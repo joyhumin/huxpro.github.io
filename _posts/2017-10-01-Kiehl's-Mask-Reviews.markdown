@@ -15,8 +15,11 @@ catalog: False
 
 ![](/img/in-post/post-Kiehl-turmeric-mask/product.jpg)
 **Brand:** Kiehl’s
+
 **Product:** Turmeric & Cranberry Seed Energising Radiance Masque
+
 **Color:** Yellow (it’s not a tempting color for a masque)
+
 **Rating:**⭐️⭐️⭐️⭐️
 ![](/img/in-post/post-Kiehl-turmeric-mask/face.jpg)
 

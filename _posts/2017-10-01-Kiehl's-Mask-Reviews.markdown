@@ -21,7 +21,7 @@ catalog: False
 **Color:** Yellow (it’s not a tempting color for a masque)
 
 **Rating:**⭐️⭐️⭐️⭐️
-![](/img/in-post/post-Kiehl-turmeric-mask/face.jpg)
+![](/img/in-post/post-Kiehl-turmeric-mask/face2.jpg)
 
 **My skin type:** Combination skin with Oily skin at T-Zone
 

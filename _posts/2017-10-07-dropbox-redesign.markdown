@@ -23,7 +23,7 @@ As a marketer, this is a good opportunity to learn about how the Big Name implem
 1. New logo
 ![](/img/in-post/post-dropbox-redesign/logo.jpg)
 
-     *Flatter design and brighter color*
+     **Flatter design and brighter color**
 
 2. Dynamic color combination
 ![](/img/in-post/post-dropbox-redesign/color.jpg)
@@ -33,6 +33,7 @@ Compared to the old logo combination which is blue and white, the new color comb
 A real-time collaborate document for team.
 > Our new brand system shows that Dropbox isn’t just a place to store your files - it’s a living workspace that brings teams and ideas together.  
 Above is the statement showing in the [design website](https://dropbox.design) . My guess is that Dropbox is shifting their core business for Enterprise or team rather than individual.
+
 - - - -
 
 ### Marketing Campaign

@@ -82,8 +82,8 @@ If you really believe your ideas are sound, you will have no need to raise your 
 Step 1:  When you are researching a topic, keep your sources’ ideas separate from your own. [A software recommend by Zhiping YANG is called [**Zotero**](https://www.zotero.org).]
 
 Step 2: As you read each source note the ideas you want to refer to in your writing.
- 
-	* If the author’s words are unusually clear and concise, copy them *exactly* and put quotation marks around them.
-	* If the author’s idea triggers a response in your mind, write it down and put brackets “[]” around it.
+
+* If the author’s words are unusually clear and concise, copy them *exactly* and put quotation marks around them.
+* If the author’s idea triggers a response in your mind, write it down and put brackets “[]” around it.
 
 Step 3: When you compose your paper, work borrowed ideas and words into your own wiring by judicious use of quoting and paraphrasing.

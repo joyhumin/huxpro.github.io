@@ -77,7 +77,7 @@ If you really believe your ideas are sound, you will have no need to raise your 
 
 指导paper✏️部分
 
-**Avoiding Plagiarism**
+### Avoiding Plagiarism
 
 Step 1:  When you are researching a topic, keep your sources’ ideas separate from your own. [A software recommend by Zhiping YANG is called [**Zotero**](https://www.zotero.org).]
 

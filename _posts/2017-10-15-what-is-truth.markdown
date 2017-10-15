@@ -67,13 +67,11 @@ The problem with believing that preceding events necessarily cause subsequent ev
 
 2. **Not all causation involves force or necessity.**
 **Causation** can defined as *the phenomenon of one thing influencing the occurrence of another.*
-
 [In material events, the causation is commonly associated with a physical action; in nonmaterial events, the causation may occur through influence. ]
 
 3. **There is a wild card in human affairs - free will.**
 People possess free will and that makes the effects of human affairs unpredictable.  In any investigation of causes and effects in human affairs, the factor of free will must be considered.
 Possessing free will is no guarantee that we will apply it, and **habit** makes such application difficult.
-
 Resisting the force of habit is always possible but never easy. The most difficult habits to break are those that accrue incrementally over time.
 
 4. **Causation is often complex.**

@@ -22,19 +22,24 @@ catalog: False
 > This *quinquennial* gathering will indicate the strength of Xi Jinping’s authority  
 
 *quinquennial*: recurring every five years.  名词：quinquennium.  其中前缀quinquen: 表示five.
-类似的词：
-perennial / annual: 每年的
-biennial 每两年的 bis: two
-triennial 每三年的 tres: three
+类似的词:  
+perennial / annual: 每年的  
+biennial 每两年的 bis: two  
+triennial 每三年的 tres: three  
 quadrennial 每四年的 quadr- 前缀表示四
 
 > ON OCTOBER 18TH Xi Jinping, the leader of China’s Communist Party, will kick off a big party gathering in the Great Hall of the People in Tiananmen Square in Beijing. It will look like innumerable other party meetings. There will be a huge *throng*, 2,300-strong, mostly men in dark suits, a few of them in *tribal costumes*. There will be long speeches with *impenetrable verbiage*. No policies will change. But this meeting matters more than most because party congresses take place just once every five years and this is the first one to be chaired by Mr Xi. Like all congresses, it will revise the *party constitution* and elect a new political elite—the 370 or so members of the party’s *Central Committee*, to which all important decision-makers belong. It will also be a *coronation* and a test for Mr Xi. The coronation will reveal how much authority he has accumulated over the party. The test will reveal whether he is a rule-breaker or a rule-keeper.  
 
-*throng*：a large gathering of people.
-*tribal costumes*: 民族服饰
-*impenetrable*: impossible to understand.
+***throng***：a large gathering of people.
+
+***tribal costumes***: 民族服饰
+
+***impenetrable***: impossible to understand.
+
 im-表示否定的前缀(prefix)，*penetrate*表示渗透，穿透； penertrable 是其形容词格式。impenertrable本来表示无法穿透的意思，但也有难以理解的意思。
-*party constitution*:党章。 *constitution*：a statement of the principles of and laws of a nation.
+
+*Party constitutin* :党章。 *constitution*：a statement of the principles of and laws of a nation.
+
 ***Central Committee***: 中央委员会
 
 > China’s Communist Party has held congresses since its foundation. The first was in 1921. But the practice of quinquennial gatherings dates to Deng Xiaoping’s attempts in the 1980s to introduce a sense of order and predictability after the chaos of the Cultural Revolution. Deng also introduced a number of other rules, or norms, that have more or less been kept for 20 years. Among them: that the leader should retire after two terms and appoint a **successor** after the first (meaning, in Mr Xi’s case, now); that there should be fixed retirement ages for top leaders (68 for the Central Committee); that people should move up the party in incremental steps, not leaps and bounds; and that at the end of his term the leader should be granted a kind of **ideological canonisation**, with an ideology associated with him written into the party’s constitution. All these rules are **up for grabs** at the coming congress.  

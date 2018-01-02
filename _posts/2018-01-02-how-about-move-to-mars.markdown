@@ -14,7 +14,7 @@ tags:
 catalog: False
 ---
 
-![](/img/in-post/post-move-to-mars/book-rate.jpg)
+![](/img/in-post/post-move-to-mars/rate.jpg)
 
 2018年看完的第一本书，是来自日本作家伊坂幸太郎的小说《不然你搬去火星啊》。
 

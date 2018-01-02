@@ -13,7 +13,7 @@ tags:
     - novel
 catalog: False
 ---
-![豆瓣评分](/img/in-post/post-move-to-mars/rate.jpg)
+![豆瓣评分](/img/in-post/post-communist-congress/congress.jpg)
 
 2018年看完的第一本书，是来自日本作家伊坂幸太郎的小说《不然你搬去火星啊》。
 

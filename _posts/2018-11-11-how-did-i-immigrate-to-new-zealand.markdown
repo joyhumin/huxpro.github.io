@@ -31,7 +31,7 @@ catalog: False
 
 ##正文
 我的经历普通但移民经历绝不普通（aka 奇葩），连我有10年移民经验的顾问都说我的经历之曲折能够算她客户里top级别的了。话不多说，先把我这2年多交给移民局签证的记录截图如下，相信曲折离奇的经历的感受已经溢出屏幕了（移民局很喜欢我这种交钱大户）
-![](⁨img⁩/⁨in-post⁩/post-immigrate-to-nz/visa-history.jpg⁩)
+![](/⁨img⁩/⁨in-post⁩/post-immigrate-to-nz/visa-history.jpg⁩)
 
 ###如何来新西兰
 来新西兰的方式有两个：

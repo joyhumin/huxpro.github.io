@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 从湖南农村到纽村
-subtitle: How did i immigrate to New Zealand
+subtitle: How did I immigrate to New Zealand
 date: 2018-11-11
 author: Joy
 header-img: "img/post-bg/auckland.jpg"
